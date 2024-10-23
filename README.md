@@ -13,7 +13,7 @@ Database: H2 (in-memory data storage)
 To run the Weather Alert System in an IDE like IntelliJ IDEA, follow these steps:
 
 1. Clone the Repository:
-git clone https://github.com/your-username/weather-alert-system.git
+git clone https://github.com/2022H1030042G/WeatherMonitoring.git
 
 2. Open the Project in IntelliJ IDEA:
 Launch IntelliJ IDEA.
